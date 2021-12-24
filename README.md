@@ -8,4 +8,4 @@
 
 - 按表格/推荐/时序题的方法做特征，但一定要小心泄漏。
 
-- NLP：Bert/w2v/tf-idf。这类提供了bert的baseline，训练耗时会比较长。
+- NLP：Bert/w2v/tf-idf。这里提供了bert的baseline，训练耗时会比较长。
